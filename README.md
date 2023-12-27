@@ -49,3 +49,5 @@ https://github.com/madangopal16072000/EDP-Crop_Water_Requirement_Prediction
 **Server:** Firebase,Azure,Flask
 
 **Algorithm** Random Forest
+![image](https://github.com/madangopal16072000/Agri-Madad/assets/109917122/22a0b1de-26bc-48fc-acaf-e2ff2c4e3274)
+
